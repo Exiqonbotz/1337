@@ -1,8 +1,8 @@
 <a href=""><img src="" alt="Lion-Bot" border="0"></a>
-<h1 align="center">1337 Bot-Bot<br></h1>
+<h1 align="center">1337-Bot<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "1337 Bot-Bot " a WhatsApp bot made by Askero to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "1337-Bot " a WhatsApp bot made by Exiqon to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
 </br>
 
@@ -18,7 +18,7 @@
 5. auto react added ✅️
 🔻More features and improvements!
 
--regards Lion-Bot Team
+-regards My Nuts
 ```
 </br>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=49491741711168&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Exiqon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=491741711168&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Exiqon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -35,7 +35,7 @@
 ## ```Bot Support Groups```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/KSM8yCpBHGUGkb2f3zfGz7"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/KSM8yCpBHGUGkb2f323zfGz7"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -127,7 +127,7 @@ pkg install imagemagick -y
 
 git clone https://github.com/alibotzz/Askero.git
 
-cd Askero
+cd 1337
 
 rm -rf session
 
