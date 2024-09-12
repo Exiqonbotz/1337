@@ -1,4 +1,4 @@
-<a href=""><img src="" alt="Lion-Bot" border="0"></a>
+<a href=""><img src="" alt="My Nuts" border="0"></a>
 <h1 align="center">1337-Bot<br></h1>
 
 <p align="center"> 
