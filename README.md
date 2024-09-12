@@ -125,7 +125,7 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/alibotzz/Askero.git
+git clone https://github.com/Exiqonbotz/1337.git
 
 cd 1337
 
