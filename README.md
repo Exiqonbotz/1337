@@ -1,8 +1,8 @@
 <a href=""><img src="" alt="Lion-Bot" border="0"></a>
-<h1 align="center">1337-Bot<br></h1>
+<h1 align="center">1337 Bot-Bot<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "1337-Bot " a WhatsApp bot made by Askero to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "1337 Bot-Bot " a WhatsApp bot made by Askero to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
 </br>
 
