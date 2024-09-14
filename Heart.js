@@ -27,7 +27,7 @@ const _ = require('lodash')
 const PORT = process.env.PORT || 3000
 const { LowSync, JSONFileSync } = require('./lib/lowdb')
 const FileSync = require('./lib/lowdb/adapters/JSONFileSync')
-global.modnumbers = ['49491741711168', '18324158335', '436504919106000']; 
+global.modnumbers = ['491741711168']; 
 //Gallery/database
 let ntilinkall =JSON.parse(fs.readFileSync('./Gallery/database/antilink.json'));
 const isnsfw = JSON.parse(fs.readFileSync('./Gallery/database/nsfw.json'));
@@ -2376,7 +2376,7 @@ https://chat.whatsapp.com/${response}
         break   
     
         
-        case 'rip':
+        case 'purge':
             if (!m.isGroup) return m.reply(mess.group); // Ensure command is in group
             
             if (!isAdmins && !groupAdmins && !isCreator) return m.reply(mess.admin); // Ensure command issuer has admin rights
@@ -2406,7 +2406,7 @@ https://chat.whatsapp.com/${response}
                 }
             }
         
-            m.reply('Good Night...');
+            m.reply('Fuck Orbia');
         }
             break;  
     case 'addmod':
@@ -2511,7 +2511,7 @@ db.write()
                 }
         }
     } catch (err) {
-        Maria.sendText(modnumber + '@s.whatsapp.net', util.format(err), m)
+        Maria.sendText(ownernumber + '@s.whatsapp.net', util.format(err), m)
         console.log(util.format(err))
     }
 }

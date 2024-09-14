@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.Owner = ['4915753109114', '436509353999399', '4915222099047'];
-global.ownernumber =  ['4915753109114', '436509353999399', '4915222099047'];
+global.Owner = ['4915753109114', '436509353999399', '4915222099047','491741711168'];
+global.ownernumber =  ['4915753109114', '436509353999399', '491741711168','4915222099047'];
 global.ownername = 'ꪶ1͢͡3͢3͢7͜͡ꫂ|𝔅𝔯𝔦𝔫𝔤 𝔦𝔱 𝔬𝔫'; // Owner Name
 global.ytname = "YT: Soon"
 global.socialm = "GitHub: Bring it on"
@@ -23,7 +23,7 @@ global.wm = "ꪶ1͢͡3͢3͢7͜͡ꫂ|𝔅𝔯𝔦𝔫𝔤 𝔦𝔱 𝔬𝔫"
 global.link = 'https://chat.whatsapp.com/KRKvxj4y5SRD8uqLBFnVjo'
 
 //custom prefix
-global.prefa = ['/']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
