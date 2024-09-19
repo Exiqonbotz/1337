@@ -23,7 +23,7 @@ global.wm = "ꪶ1͢͡3͢3͢7͜͡ꫂ|𝔅𝔯𝔦𝔫𝔤 𝔦𝔱 𝔬𝔫"
 global.link = 'https://chat.whatsapp.com/KRKvxj4y5SRD8uqLBFnVjo'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['/']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
