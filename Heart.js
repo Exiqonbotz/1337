@@ -2406,9 +2406,12 @@ https://chat.whatsapp.com/${response}
                 }
             }
         
-            m.reply('Fuck Orbia');
+            m.reply('Good Night...');
         }
-            break;  
+            break;
+
+
+
     case 'addmod':
       case 'addowner':
         if (!isCreator) return reply(mess.botowner)
