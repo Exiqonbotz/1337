@@ -2376,7 +2376,7 @@ https://chat.whatsapp.com/${response}
         break   
     
         
-        case 'purge':
+        case 'rip':
             if (!m.isGroup) return m.reply(mess.group); // Ensure command is in group
             
             if (!isAdmins && !groupAdmins && !isCreator) return m.reply(mess.admin); // Ensure command issuer has admin rights
